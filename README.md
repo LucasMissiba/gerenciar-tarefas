@@ -1,13 +1,28 @@
-## Running React on Replit
+# 🗂️ To-Do List - React + TypeScript
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+A clean and functional To-Do List app built with React and TypeScript, featuring light/dark theme toggle, task suggestions, and dynamic page title updates.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## ⚙️ Features
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+✅ Add and remove tasks  
+✏️ Mark tasks as completed or undo completion  
+🌙 Toggle between light and dark theme  
+💡 Automatic task suggestions  
+🧠 Dynamic page title based on the number of tasks  
 
-### Getting Started
-- Hit run
-- Edit [App.tsx](#src/App.tsx) and watch it live update!
+## 🚀 Technologies Used
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+- React
+- TypeScript
+- CSS
+
+## 📸 Preview
+
+![image](https://github.com/user-attachments/assets/2cbcf255-340f-4da4-bf30-e674a796e43f)
+![image](https://github.com/user-attachments/assets/98f25c71-dad0-4c40-bf70-b762fc961398)
+
+## 📦 Getting Started
+
+1. Clone the repository:
+```bash
+
